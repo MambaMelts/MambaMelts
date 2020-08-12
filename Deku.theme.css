@@ -18,7 +18,7 @@
 .ui-standard-sidebar-view,
 .content-region .cm-s-material .CodeMirror-gutters,
 .guilds-wrapper .guilds .guild .guild-inner {
-	background-color: transparent !important;
+	background-color: rgba(100, 100, 100, 0.5) !important;
 }
 
 .titleBar-AC4pGV { margin-top: 0px; padding-top: 4px; }
